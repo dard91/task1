@@ -1,0 +1,4 @@
+<?php
+
+DEFINE ("PATH","files/");
+
